@@ -1,0 +1,11 @@
+﻿  Lab7.cpp
+C:\Users\Dan_B\Documents\PDP main\lab7\Lab7\Lab7\Lab7.cpp(24,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dan_B\Documents\PDP main\lab7\Lab7\Lab7\Lab7.cpp(39,9): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dan_B\Documents\PDP main\lab7\Lab7\Lab7\Lab7.cpp(39,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dan_B\Documents\PDP main\lab7\Lab7\Lab7\Lab7.cpp(102,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dan_B\Documents\PDP main\lab7\Lab7\Lab7\Lab7.cpp(124,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dan_B\Documents\PDP main\lab7\Lab7\Lab7\Lab7.cpp(154,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dan_B\Documents\PDP main\lab7\Lab7\Lab7\Lab7.cpp(159,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dan_B\Documents\PDP main\lab7\Lab7\Lab7\Lab7.cpp(264,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dan_B\Documents\PDP main\lab7\Lab7\Lab7\Lab7.cpp(269,20): warning C4018: '<': signed/unsigned mismatch
+  Lab7.vcxproj -> C:\Users\Dan_B\Documents\PDP main\lab7\Lab7\Debug\Lab7.exe
